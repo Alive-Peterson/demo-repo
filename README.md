@@ -7,3 +7,7 @@ Hello User !
 How are you ?
 
 Git is fun and also can be tricky sometimes
+
+## example 
+
+some text
